@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bjarmah
 - 👀 I’m interested in general software development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on django and spring projects
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on typescript and spring projects
 - 📫 How to reach me bjarmah1@gmail.com
 
 <!---
