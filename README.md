@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Projects<br>👯 🤝 I’m looking for help with<br>🌱 I’m currently learning Spring<br>💬 Ask me about Spring<br>⚡ Fun fact , The first computer mouse was made of wood
+🔭 Starting my Masters in Computer Science<br>👯 🤝 Will probably post most of my projects here<br>🌱 I’m currently learning Computer vision<br>💬 Potentially might choose something ML/AI to work on <br>⚡ Fun fact, The first computer mouse was made of wood
 
 
 ## 🌐 Socials:
